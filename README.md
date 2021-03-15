@@ -9,4 +9,5 @@
 - 😄 Pronouns: She|| Her
 - ⚡ Fun fact: Keen about learning new vocabs
 
-![Profile Hunters](https://profile-counter.glitch.me/{Rosh9532}/count.svg)
+ ![Visitor Count](https://profile-counter.glitch.me/{Rosh9532}/count.svg)
+
